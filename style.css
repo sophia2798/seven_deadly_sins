@@ -1,0 +1,25 @@
+body {
+    background:rgb(242,187,151);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+a:link {
+    color: gray;
+}
+
+a:visited {
+    color: red;
+}
+
+h1 {
+    text-align: center;
+}
